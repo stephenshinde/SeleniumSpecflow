@@ -1,0 +1,9 @@
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\bin\Debug\netcoreapp3.1\CoreAutomation.deps.json
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\bin\Debug\netcoreapp3.1\CoreAutomation.dll
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\bin\Debug\netcoreapp3.1\CoreAutomation.pdb
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\obj\Debug\netcoreapp3.1\CoreAutomation.AssemblyInfoInputs.cache
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\obj\Debug\netcoreapp3.1\CoreAutomation.AssemblyInfo.cs
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\obj\Debug\netcoreapp3.1\CoreAutomation.csproj.CoreCompileInputs.cache
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\obj\Debug\netcoreapp3.1\CoreAutomation.dll
+C:\Users\91970\Task\TestAutomationTask\CoreAutomation\obj\Debug\netcoreapp3.1\CoreAutomation.pdb
