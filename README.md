@@ -1,6 +1,6 @@
 # SeleniumSpecflow #
 
-This project is developed with Se;enium, Specflow libraray with page object model design pattern.
+This project is developed with Selenium, Specflow libraray with page object model design pattern.
 
 * **IDE** : Visual Studio 2019 Community version
 * **Programming Language** : C#
